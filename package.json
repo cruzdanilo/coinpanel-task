@@ -1,0 +1,29 @@
+{
+  "name": "coinpanel-task",
+  "version": "0.0.1",
+  "description": "coinpanel backend task",
+  "main": "index.js",
+  "author": "danilo neves cruz <cruzdanilo@gmail.com> (https://cruzdanilo.com)",
+  "repository": "github:cruzdanilo/coinpanel-task",
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "dotenv": "^8.2.0",
+    "nodenv": "^0.1.0",
+    "utf-8-validate": "^5.0.4",
+    "ws": "^7.4.3",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "@types/eslint": "^7.2.6",
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0"
+  }
+}
